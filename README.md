@@ -1,2 +1,2 @@
 # Engine
-A barebone game engine made by: RandomStudio
+A barebone game engine with an mit license made by: RandomStudio
