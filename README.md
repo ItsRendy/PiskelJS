@@ -1,2 +1,2 @@
 # Engine
-A barebone game engine
+A barebone game engine made by: RandomStudio
